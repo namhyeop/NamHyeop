@@ -4,10 +4,10 @@
 
 ## Education
 - Graduation from Kangwon National University (2015-03 ~ 2021-02)
-- Google Maching Learnig StudyJam(2019-07 ~ 2019-08)
-- Development training for problem-solving artificial intelligence development-KEPCO(2019-08 ~ 2019-09)
-- Samsung SDS Summer Algorithm Training(2021-07 ~ 2021-07)
-- 42Seoul(2021-01 ~)
+- Google Maching Learnig StudyJam (2019-07 ~ 2019-08)
+- Development training for problem-solving artificial intelligence development-KEPCO (2019-08 ~ 2019-09)
+- Samsung SDS Summer Algorithm Training (2021-07 ~ 2021-07)
+- 42Seoul (2021-01 ~)
 
 ## AWARDS
 -2020 Kangwon National University Capstone Design grand prize

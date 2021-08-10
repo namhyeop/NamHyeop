@@ -2,9 +2,17 @@
 ### Hi, there I'm studying backend development
 
 ## 🛠Tecg Stack🛠
-<img src="https://img.shields.io/badge/C-E34F26?style=flat-square&logo=C&logoColor=A8B9CC"/></a> &nbsp
-https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
 
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
+
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black">
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Apache Storm-007396?style=flat&logo=Apache Spark&logoColor=white">
+
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>
 ## Education
 - Graduation from Kangwon National University (2015-03 ~ 2021-02)
 - Google Maching Learnig StudyJam (2019-07 ~ 2019-08)

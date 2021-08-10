@@ -2,7 +2,7 @@
 ### Hi, there I'm studying backend development
 
 ## Stack
-http://img.shields.io/badge/-C-inactive?style=flat-square&logo=#A8B9CC
+http://img.shields.io/badge/-C-inactive?style=flat-square&logo=#A8B9CC&link=
 
 ## Education
 - Graduation from Kangwon National University (2015-03 ~ 2021-02)

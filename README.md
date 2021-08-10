@@ -13,6 +13,7 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>
+
 ## Education
 - Graduation from Kangwon National University (2015-03 ~ 2021-02)
 - Google Maching Learnig StudyJam (2019-07 ~ 2019-08)

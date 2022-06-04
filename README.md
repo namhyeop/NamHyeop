@@ -15,6 +15,6 @@
 - <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker&logoColor=white">
 - <img src="https://img.shields.io/badge/Amazon AWS-orange?style=flat&logo=Amazon%20AWS&logoColor=white"/>
 ## :trophy: AWARDS
-- 2020 Capstone Design grand prize(2020-12-22)🥇
-- 2021 KT AI Service Competition Excellence Award(2022-01-12)🥈
+- 2020 Capstone Design grand prize🥇(2020-12-22)
+- 2021 KT AI Service Competition Excellence Award🥈(2022-01-12)
  
